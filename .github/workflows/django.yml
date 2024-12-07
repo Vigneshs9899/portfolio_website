@@ -28,7 +28,7 @@ jobs:
         pip install requests
         pip install pillow
         pip install django-allauth
-        pip install pip install PyJWT
+        pip install PyJWT
         pip install cryptography
         pip install -r requirements.txt
     - name: Run Tests
